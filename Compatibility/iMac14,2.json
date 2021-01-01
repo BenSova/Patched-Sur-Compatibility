@@ -1,7 +1,7 @@
 {
     "MacName": "iMac (27-inch, Late 2013)",
     "Author": "@bitsplusatoms",
-    "Details": "Big Sur 11.1 install went smoothly: booted the EFI volume, powered back on, booted the installer volume, went through normal installation process. I wasn't sure whether I needed to patched the Kexts, but I did not have to. ",
+    "Details": "Works well.",
     "Works": [
         "WiFi and Ethernet",
         "Bluetooth",
