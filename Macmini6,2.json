@@ -1,0 +1,19 @@
+{
+ 	"MacName": "Mac mini Server (Late 2012)",
+ 	"Author": "@ajsap",
+ 	"Details": "Works perfectly fine with KEXT patch, except FileVault is not available.",
+ 	"Works": [
+ 	"Metal Graphics",
+ 	"Sound",
+ 	"I/O Ports",
+   "AirDrop"
+     ],
+     "Unknown": [
+ 	"One thing you are unsure about"
+     ],
+     "Warns": [
+ 	"FileVault",
+ 	"Personal Hotspots",
+ 	"WPA2 Enterprise"
+     ]
+ }
