@@ -1,7 +1,7 @@
 {
 	"MacName": "Mac mini (Late 2012)",
 	"Author": "@ajsap",
-      "Approved": ["@BenSova"]
+      "Approved": ["@BenSova"],
 	"Details": "Works perfectly fine with KEXT patch, except FileVault is not available.",
 	"Works": [
 	    "Graphics Acceleration",
