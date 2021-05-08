@@ -1,0 +1,15 @@
+{
+	"MacName": "Mac mini server (Late 2012)",
+	"Author": "@snoova",
+	"Details": "Performance is good and pretty much everything works after patching the kexts.",
+	"Works": [
+	    "Graphics Acceleration",
+	    "Sound",
+	    "I/O Ports",
+          "AirDrop"
+    ],
+    "Unknown": [],
+    "Warns": [
+	"Personal Hotspots"
+    ]
+}
